@@ -12,16 +12,19 @@
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
+**Ferramentas de Desenvolvimento**
 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+  
 <div align="center">
   <a href="[https://github.com/EvaTavares](https://github.com/EvaTavares)">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=EvaTavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaTavares&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>  
   
-----
 
-## 🚀 Minhas Skills
+  ## 🚀 Minhas Skills 
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -34,4 +37,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
   
----
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Eva Tavares](https://img.shields.io/badge/-EvaTavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/evatavares/))](https://www.linkedin.com/in/evatavares/)
+[![Gmail Badge](https://img.shields.io/badge/-eva.programadora@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eva.programadora@gmail.com)](mailto:eva.programadora@gmail.com)
+[![GitHub Eva Tavares]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/EvaTavares)
+
