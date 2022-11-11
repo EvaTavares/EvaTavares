@@ -12,10 +12,6 @@
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ----
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
   
 <div align="center">
   <a href="https://github.com/EvaTavares">
@@ -31,9 +27,16 @@
   <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Eva Tavares](https://img.shields.io/badge/-EvaTavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/evatavares/))](https://www.linkedin.com/in/evatavares/)
-[![Gmail Badge](https://img.shields.io/badge/-eva.programadora@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eva.programadora@gmail.com)](mailto:eva.programadora@gmail.com)
-[![GitHub Eva Tavares]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/EvaTavares)
+<h3 style="display: inline_block" align="center">:earth_americas: &nbsp;Onde me encontrar: </h3> 
+ <br>
+<div style="display: inline_block" align="center"> 
+  <a href="https://www.instagram.com/tavareseva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "eva.programadora@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/evatavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>  
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
