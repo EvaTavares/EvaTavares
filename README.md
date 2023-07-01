@@ -21,13 +21,13 @@
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Eva-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eva-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Eva-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eva-HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eva-CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eva-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eva-React" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Eva-Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eva-Python" height="50" width="80" src="![image](https://github.com/EvaTavares/EvaTavares/assets/105613218/7ac54ad6-1e28-4b50-b327-89b685a9821c)
-">
+  <img align="center" alt="Eva-PostgreSql" height="50" width="80" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=4b56ec">
+  <img align="center" alt="Eva-NodeJs" height="50" width="80" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=4b56ec">
 </div>
 
 <h3 style="display: inline_block" align="center">:earth_americas: &nbsp;Onde me encontrar: </h3> 
