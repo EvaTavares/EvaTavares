@@ -3,11 +3,12 @@
 ## 😄 Hi There! I'm Eva Tavares
 ## 😄 Olá, meu nome é <strong>Eva Tavares</strong>!
 
-📚 Desenvolvedora Full Stack pelo Programa Starter 12º edição Web Full Stack Developer - GrowDev.<br>
+📚 Desenvolvedora Full Stack pelo Programa Starter Web Full Stack Developer - GrowDev.<br>
 📚Estudante de Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
-🎓Graduação em Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
+🎓Graduação Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
 🔬 Participei de grupos de pesquisa de iniciação científica, docência e extensão dentro da Universidade Federal da Paraíba.<br> 
 👩‍🏫 Atuo como professora de oboé no Programa de Inclusão Através da Música e das Artes (PRIMA).<br> 
+👩‍🏫 Atuo como Tech Helper na Growdev.<br> 
 
 🟢💻 Atualmente estou em transição de carreira para a área de tecnologia, desenvolvimento Web Full Stack.
 
