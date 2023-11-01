@@ -12,7 +12,7 @@
 
 🟢💻 Atualmente estou em transição de carreira para a área de tecnologia, desenvolvimento Web Full Stack.
 
-😄 No meu tempo livre eu gosto de assistir séries, filmes, ler, jogar games e sair com os meus amigos!
+😄 No meu tempo livre eu gosto de assistir séries, filmes, ler, jogar e sair com os meus amigos!
 
 ----
   
