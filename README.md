@@ -8,7 +8,7 @@
 🎓Graduação Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
 🔬 Participei de grupos de pesquisa de iniciação científica, docência e extensão dentro da Universidade Federal da Paraíba.<br> 
 👩‍🏫 Atuo como professora de oboé no Programa de Inclusão Através da Música e das Artes (PRIMA).<br> 
-👩‍🏫 Atuo como Tech Helper na Growdev.<br> 
+👩‍🏫 Atuei como Tech Helper na Growdev.<br> 
 
 🟢💻 Atualmente estou em transição de carreira para a área de tecnologia, desenvolvimento Web Full Stack.
 
