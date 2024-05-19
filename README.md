@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A1506D&height=120&section=header"/>
 
 ## 😄 Hi There! I'm Eva Tavares
-## 😄 Olá, meu nome é <strong>Eva Tavares</strong>!
+## 😄 Olá, eu sou <strong>Eva Tavares</strong>!
 
 📚 Desenvolvedora Full Stack pelo Programa Starter Web Full Stack Developer - GrowDev.<br>
 📚Estudante de Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
