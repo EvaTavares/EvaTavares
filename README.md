@@ -4,8 +4,8 @@
 ## 😄 Olá, eu sou <strong>Eva Tavares</strong>!
 
 👩‍🏫 Atuo como Desenvolvedora Full Stack Trainne na Growdev.<br> 
+🎓Tecnóloga em Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
 📚 Desenvolvedora Full Stack pelo Programa Starter Web Full Stack Developer - GrowDev.<br>
-📚Estudante de Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
 🎓Graduação Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
 🔬 Participei de grupos de pesquisa de iniciação científica, docência e extensão dentro da Universidade Federal da Paraíba.<br> 
 👩‍🏫 Atuo como professora de oboé no Programa de Inclusão Através da Música e das Artes (PRIMA).<br> 
