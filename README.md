@@ -3,7 +3,7 @@
 ## 😄 Hi There! I'm Eva Tavares
 ## 😄 Olá, eu sou <strong>Eva Tavares</strong>!
 
-👩‍🏫 Atuo como Desenvolvedora Full Stack Trainne na Growdev.<br> 
+👩‍🏫 Atuo como Desenvolvedora Full Stack Trainee na Growdev.<br> 
 🎓Tecnóloga em Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
 📚 Desenvolvedora Full Stack pelo Programa Starter Web Full Stack Developer - GrowDev.<br>
 🎓Graduação Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
