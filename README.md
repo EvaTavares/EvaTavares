@@ -31,6 +31,7 @@
   <img align="center" alt="Eva-Python" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eva-PostgreSql" height="50" width="80" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=4b56ec">
   <img align="center" alt="Eva-NodeJs" height="50" width="80" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=4b56ec">
+  <img align="center" alt="Eva-Docker" height="50" width="80" src="https://icongr.am/devicon/docker-original.svg?size=128&color=4b56ec">
 </div>
 
 <h3 style="display: inline_block" align="center">:earth_americas: &nbsp;Onde me encontrar: </h3> 
