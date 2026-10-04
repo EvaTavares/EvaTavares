@@ -4,11 +4,11 @@
 ## 😄 Olá, eu sou <strong>Eva Tavares</strong>!
 
 👩‍🏫 Analista e desenvolvedora de Software.<br> 
-🎓Tecnóloga em Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas - UNIESP.<br> 
 📚 Desenvolvedora Full Stack pelo Programa Starter Web Full Stack Developer - GrowDev.<br>
-🎓Graduação Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
+🎓 Bacharelado e Licenciatura em Música, com habilitação em práticas interpretativas em oboé - UFPB.<br>
 🔬 Participei de grupos de pesquisa de iniciação científica, docência e extensão pela Universidade Federal da Paraíba.<br> 
-👩‍🏫 Atuo como professora de oboé no Programa de Inclusão Através da Música e das Artes (PRIMA).<br> 
+👩‍🏫 Atuo também como professora de oboé no Programa de Inclusão Através da Música e das Artes (PRIMA).<br> 
 
 ----
   
